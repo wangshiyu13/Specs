@@ -15,8 +15,16 @@
     "git": "https://github.com/astrapay/qris-pod-ios.git",
     "tag": "0.1.13"
   },
+  "dependencies": {
+    "lottie-ios": [
+
+    ],
+    "SnapKit": [
+
+    ]
+  },
   "platforms": {
-    "ios": "13.4"
+    "ios": "13.0"
   },
   "swift_versions": "5.3",
   "vendored_frameworks": "AstraPayQrisSdk.xcframework",

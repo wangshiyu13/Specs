@@ -14,7 +14,7 @@
   },
   "source": {
     "git": "https://github.com/mapp-digital/MappIntelligence-iOS-v5.git",
-    "tag": "5.0.10"
+    "commit": "04c8615391725662ecc351e550194d698599775f"
   },
   "exclude_files": "MappIntelligence/include/**",
   "source_files": "MappIntelligence/**/*.{h,m}",
